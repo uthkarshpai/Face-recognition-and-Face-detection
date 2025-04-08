@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 # Path to known faces
-images_path = r"C:\Users\uthka\Documents\rugved2\face_detection-recognition\images"
+images_path = r"path\to\your\images\"
 
 # Store face encodings and names
 known_face_encodings = []
